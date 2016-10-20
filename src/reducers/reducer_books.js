@@ -3,5 +3,5 @@ export default function () {
     {title: "js"},
     {title: "hp"},
     {title:"dark"}
-  ]
+  ];
 }
